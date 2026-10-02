@@ -1,0 +1,164 @@
+{
+  "name": "Owusu Bempah Kofi",
+  "label": "Software Engineer",
+  "image_path": "portfolio_media/OBK.JPG",
+  "contact": {
+    "email": "owusubempah2012@gmail.com",
+    "phone": "00393890128389",
+    "location": "Crescentino, Vercelli. ITALY"
+  },
+  "summary": "Programming enducator. Simplifying complex concepts into manageable steps to help learners digest material at their own pace.",
+  "url": "https://github.com/OwusuBempahKofi",
+  "social_links": [
+    {
+      "label": "Owusu Bempah Linkedin",
+      "url": "https://www.linkedin.com/in/kofi-owusu-bempah-0557b257/?isSelfProfile=true",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@bempahowusukofi",
+      "svg_path": "img/youtube.svg"
+    },
+
+    {
+      "label": "Github",
+      "url": "https://github.com/OwusuBempahKofi",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "CWS SRL",
+      "position": "Software Engineer",
+      "url": "https://www.cws.it/system-integrator-technology-consultant/",
+      "start_date": "2020",
+      "end_date": "2021",
+      "summary": "",
+      "highlights": [
+        "Created and maintained back-end API services using Flask.",
+        "Created system administration scripts using Python to automate the processing and deployment of mission-critical data.",
+        "Tasked with migrating in-house data pipelines to a cloud-based solution using AWS."
+      ]
+    },
+    {
+      "company": "Best Engage",
+      "position": "Software Engineer",
+      "url": "https://bestengage.it/",
+      "start_date": "2019",
+      "end_date": "2020",
+      "summary": "",
+      "highlights": [
+        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
+        "Wrote and published geoprocessing services using Python and ArcPy",
+        "Created backend user authentication systems with PHP and MySQL"
+      ]
+    },
+     {
+      "company": "GNPC (Ghana National Petroleum Corporation)",
+      "position": "Geophysicist",
+      "url": "https://www.gnpcghana.com/",
+      "start_date": "2012",
+      "end_date": "2013",
+      "summary": "",
+      "highlights": [
+        "Created GIS web applications with ActionScript and the ArcGIS API for Flex.",
+        "Developed custom widgets for routing, wind data visualization, and simulations.",
+        "Wrote and maintained SQL-based queries to efficiently retrieve and analyze data from GIS REST services."
+      ]
+    }
+
+  ],
+  "projects": [
+    {
+      "title": "Educational Content Creator on YouTube",
+      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
+      "url": "https://youtube.com/c/coreyms",
+      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "images": [
+        {
+          "img_path": "portfolio_media/yt1.png",
+          "caption": "Main Channel"
+        },
+        {
+          "img_path": "portfolio_media/yt2.png",
+          "caption": "Tutorials"
+        },
+        {
+          "img_path": "portfolio_media/yt3.png",
+          "caption": "Live Streams"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Heritage Point Assisted Living",
+      "position": "Computer Assistance",
+      "url": "https://www.heritage-point.com/",
+      "start_date": "2012",
+      "end_date": "2015",
+      "summary": "Helped residents with any computer problems for two hours each week. Mainly helped with networking, typing, basic instruction, and troubleshooting.",
+      "highlights": []
+    },
+    {
+      "organization": "Marshall University",
+      "position": "Student Ambassador",
+      "url": "https://marshall.edu",
+      "start_date": "2007",
+      "end_date": "2008",
+      "summary": "Gave campus tours, organized promotional events, and ran summer orientation.",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Politecnico Di  Torino",
+      "location": "Torino, ITALY",
+      "url": "https://marshall.edu",
+      "degrees": [
+        "Master Of Science In Nanotechnology For ICT",
+        "Nanotechnology "
+      ],
+      "honors": [
+        "2010 Outstanding Student Award",
+        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
+        "Placed in a District ACM ICPC Team Programming Contest"
+      ],
+      "gpa_cumulative": "105",
+      "gpa_major": "110",
+      "graduation_date": "2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Python, Flask, Django",
+      "proficiency": 100,
+      "proficiency_label": "Expert"
+    },
+    {
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Woodworking",
+      "summary": "",
+      "images": [
+        {
+          "img_path": "portfolio_media/ww1.jpg",
+          "caption": "Chess Board made from Walnut and Maple"
+        }
+      ]
+    }
+  ],
+  "languages": [],
+  "references": []
+}
