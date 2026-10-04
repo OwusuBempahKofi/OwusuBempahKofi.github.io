@@ -82,8 +82,8 @@
           "caption": "Main Channel"
         },
         {
-          "img_path": "portfolio_media/yt2.png",
-          "caption": "Tutorials"
+          "img_path": "portfolio_media/FF.JPG",
+          "caption": "Master's Thesis"
         },
         {
           "img_path": "portfolio_media/yt3.png",
@@ -122,12 +122,12 @@
 
       ],
       "honors": [
-        "2010 Outstanding Student Award",
-        "2005 R.L. “Buck” Woodall Student-Athlete scholarship",
+        "2019 Outstanding Student Award",
+        "2017 R.L. “Buck” Woodall Student-Athlete scholarship",
         "Placed in a District ACM ICPC Team Programming Contest"
       ],
-      "gpa_cumulative": "105",
-      "gpa_major": "110",
+      "gpa_cumulative": "105/110",
+
       "graduation_date": "2019"
     }
   ],
