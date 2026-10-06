@@ -13,7 +13,7 @@
     {
       "label": "Owusu Bempah Linkedin",
       "url": "https://www.linkedin.com/in/kofi-owusu-bempah-0557b257/?isSelfProfile=true",
-      "svg_path": "img/globe.svg"
+      "svg_path": "img/linkedin.svg"
     },
     {
       "label": "YouTube",
@@ -72,18 +72,20 @@
   ],
   "projects": [
     {
-      "title": "Educational Content Creator on YouTube",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.",
-      "url": "https://youtube.com/c/coreyms",
+      "title": "Characterization of suspended micro channel resonators",
+      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.In total four suspended microchannel resonators were model and characterized in this study, characterized\nby four different constriction geometries. The four suspended micro channel resonators were model using\nthe Multiphysics Comsol applying the solid mechanics suite. The first flexural eigenfrequencies for the\nfour resonators were theoretical computed to be 1.0334 MHz, 1.0336 MHz, 1.0905 MHz and 0.4938 MHz respectively. ",
+
+
+      "url": "https://webthesis.biblio.polito.it/10975/1/tesi.pdf",
       "highlights": ["Over 1 million subscribers", "Over 100 million views"],
       "images": [
         {
-          "img_path": "portfolio_media/OY.JPG",
-          "caption": "Main Channel"
+          "img_path": "portfolio_media/SMR.JPG",
+          "caption": "Master Thesis"
         },
         {
           "img_path": "portfolio_media/FF.JPG",
-          "caption": "Master's Thesis"
+          "caption": "First Flexural Mode"
         },
         {
           "img_path": "portfolio_media/yt3.png",
@@ -123,7 +125,7 @@
       ],
       "honors": [
 
-        "Supervisors: Prof. Ricciardi Carlo and Stassi S."
+        "Supervisors: Prof. Ricciardi Carlo"
 
       ],
       "gpa_cumulative": "105/110",
