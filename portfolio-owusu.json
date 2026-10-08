@@ -73,11 +73,15 @@
   "projects": [
     {
       "title": "Characterization of suspended micro channel resonators",
-      "summary": "Channel focused on creating tutorials and walkthroughs for software developers, programmers, and engineers.In total four suspended microchannel resonators were model and characterized in this study, characterized\nby four different constriction geometries. The four suspended micro channel resonators were model using\nthe Multiphysics Comsol applying the solid mechanics suite. The first flexural eigenfrequencies for the\nfour resonators were theoretical computed to be 1.0334 MHz, 1.0336 MHz, 1.0905 MHz and 0.4938 MHz respectively. ",
+      "summary": "The Suspended Microchannel Resonators (SMRs) are recently attracting great attention in the\nbiosensing field, and in particular in the density and mass monitoring of cells, bacteria growth and\nparticles loading. One of the main drawback in the implementation of this platform in lab-on-chip\ndevices is represented by the time consuming and expensive fabrication approach used to create the\nSMR itself. In fact, in order to realized a buried channel in a suspended structure complex fabrication\nmethods are needed, which requires several photo lithographic, depositions and etching process. In this\nwork it has proposed an innovative method of fabrication based on the femtosecond laser writing. In\nparticular a glass SMR has been fabricated optimizing a two steps fabrication process, which includes\nthe patterning of the buried channel and of the suspended beam followed by a chemical etching of the\nexposed substrates ",
+
+
 
 
       "url": "https://webthesis.biblio.polito.it/10975/1/tesi.pdf",
-      "highlights": ["Over 1 million subscribers", "Over 100 million views"],
+      "highlights": ["In total four suspended microchannel resonators were model and characterized in this study, characterized,by four different constriction geometries.",
+      "The four suspended micro channel resonators were model using the multiphysics comsol applying the solid mechanics suite.",
+      "The first flexural eigenfrequencies for the four resonators were theoretical computed to be 1.0334 MHz, 1.0336 MHz, 1.0905 MHz and 0.4938 MHz respectively."],
       "images": [
         {
           "img_path": "portfolio_media/SMR.JPG",
