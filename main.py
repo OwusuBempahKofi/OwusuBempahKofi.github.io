@@ -9,8 +9,12 @@ from jinja2 import Environment, FileSystemLoader
 with Path("portfolio-owusu.json").open(encoding="utf-8") as f:
     data = json.load(f)
 
+
+
     # Add any extra context if needed
     data["current_year"] = datetime.now(tz=UTC).year
+
+
 
     if "social_links" in data:
         for link in data["social_links"]:
@@ -27,11 +31,12 @@ with Path("portfolio-owusu.json").open(encoding="utf-8") as f:
     html_output = index_template.render(**data)
     resume_output = resume_template.render(**data)
 
-    # Write the output to an HTML file
-    with Path("index.html").open("w", encoding="utf-8") as f:
-        f.write(html_output)
 
-    with Path("resume.html").open("w", encoding="utf-8") as f:
-        f.write(resume_output)
+    # Write the output to an HTML file
+    with Path("index.html").open("w", encoding="utf-8") as w:
+        w.write(html_output)
+
+    with Path("resume.html").open("w", encoding="utf-8") as ww:
+        ww.write(resume_output)
 
     print("HTML file generated successfully!")
