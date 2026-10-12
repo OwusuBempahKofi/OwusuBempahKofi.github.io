@@ -99,31 +99,17 @@
   ],
   "volunteer_experience": [
     {
-      "organization": "Latest Organization",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
-      "summary": "Short summary about present volunteer work",
+      "organization": "Ideal Colledge Takoradi, Ghana.",
+      "position": "Physics teacher",
+      "url": "https://idealcollegeonline.org/",
+      "start_date": "2009",
+      "end_date": "2012",
+      "summary": "Helped students with any physics problems. Mainly helped with mechanics, electricity and magnetism, sound and waves, and Spectroscopy.",
       "highlights": [
-        "First Duty of Current Organization",
-        "Second Duty of Current Organization",
-        "Third Duty of Current Organization"
-      ]
-    },
-    {
-      "organization": "Previous Organization",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
-      "summary": "Short summary about previous volunteer work",
-      "highlights": [
-        "First Duty of Previous Organization",
-        "Second Duty of Previous Organization",
-        "Third Duty of Previous Organization"
+
       ]
     }
+
   ],
   "education": [
     {
@@ -183,15 +169,6 @@
     }
   ],
   "references": [
-    {
-      "name": "Person One",
-      "relation": "Previous Boss",
-      "reference": "Some nice things that Person One said about you, your work ethic, and how you provided value to their team."
-    },
-    {
-      "name": "Person Two",
-      "relation": "Previous Coworker",
-      "reference": "More kind things that Person Two said about you, what it was like working with you, and things you've accomplished."
-    }
+
   ]
 }
