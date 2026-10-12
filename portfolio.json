@@ -143,14 +143,19 @@
   ],
   "skills": [
     {
-      "name": "My First Skill",
+      "name": "Python, Flask, Django",
       "proficiency": 100,
-      "proficiency_label": "Proficiency Level"
+      "proficiency_label": "Expert"
     },
     {
-      "name": "My Second Skill",
-      "proficiency": 80,
-      "proficiency_label": "Proficiency Level"
+      "name": "System Administration, Linux",
+      "proficiency": 90,
+      "proficiency_label": "Advanced"
+    },
+    {
+      "name": "JavaScript, HTML, CSS",
+      "proficiency": 75,
+      "proficiency_label": "Comfortable"
     }
   ],
   "interests": [
