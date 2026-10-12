@@ -131,24 +131,15 @@
       "location": "Corso Duca degli Abruzzi, 24 ",
       "url": "https://www.polito.it/",
       "degrees": [
-        "Master of Science in Computer Science",
-        "Minor in Mathematics"
+        "Master Of Science In Nanotechnology"
+
       ],
-      "honors": ["Outstanding Student Award", "Dean's List"],
-      "gpa_cumulative": "3.5",
-      "gpa_major": "4.0",
-      "graduation_date": "01/01/2005"
-    },
-    {
-      "institution": "Institution Two",
-      "location": "Institution Two Location",
-      "url": "https://sample.com",
-      "degrees": ["Bachelor of Science in Physics"],
-      "honors": ["Scholarship Recipient"],
-      "gpa_cumulative": "3.2",
-      "gpa_major": "3.9",
-      "graduation_date": "01/01/2000"
+      "honors": ["Supervisors: Prof. Ricciardi Carlo"],
+      "gpa_cumulative": "105/110",
+
+      "graduation_date": "17/04/2019"
     }
+
   ],
   "skills": [
     {
