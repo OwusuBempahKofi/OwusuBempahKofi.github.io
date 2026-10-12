@@ -5,104 +5,97 @@
   "contact": {
     "email": "owusubempah2012@gmail.com",
     "phone": "0039-389-012-8389",
-    "location": "Crescentino, Vercelli, Italy"
+    "location": " Via San Giuseppe 7. Crescentino (13044), Vercelli, Italy"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
-  "base_url": "127.0.0.1:5500",
+  "summary": "Some insert will never see the winter snow. The frog in the well will never know the vastment of the sky. He who has seen it admires greatly.",
+  "base_url": "https://github.com/OwusuBempahKofi",
   "social_links": [
     {
-      "label": "Personal Website",
-      "url": "https://sample.com",
-      "svg_path": "img/globe.svg"
-    },
-    {
-      "label": "First Social",
-      "url": "https://sample.com",
+      "label": "Owusu Bempah Linkedin",
+      "url": "https://www.linkedin.com/in/kofi-owusu-bempah-0557b257/?isSelfProfile=true",
       "svg_path": "img/linkedin.svg"
     },
     {
-      "label": "Second Social",
-      "url": "https://sample.com",
+      "label": "YouTube",
+      "url": "https://www.youtube.com/@bempahowusukofi",
+      "svg_path": "img/youtube.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/OwusuBempahKofi",
       "svg_path": "img/github.svg"
     }
   ],
   "work_experience": [
     {
-      "company": "Latest Job",
-      "position": "Position One",
-      "url": "https://sample.com",
-      "start_date": "01/01/2020",
-      "end_date": "Present",
+      "company": "CWS SRL",
+      "position": "Software Engineer",
+      "url": "https://www.cws.it/system-integrator-technology-consultant/",
+      "start_date": "2020",
+      "end_date": "2021",
       "summary": "Short summary about present job and what the position entails",
       "highlights": [
-        "First Duty of Current Job",
-        "Second Duty of Current Job",
-        "Third Duty of Current Job"
+         "Created and maintained back-end API services using Flask.",
+        "Created system administration scripts using Python to automate the processing and deployment of mission-critical data.",
+        "Tasked with migrating in-house data pipelines to a cloud-based solution using AWS."
       ]
     },
     {
-      "company": "Previous Job",
-      "position": "Position Two",
-      "url": "https://sample.com",
-      "start_date": "01/01/2010",
-      "end_date": "01/01/2020",
+      "company": "Best Engage",
+      "position": "Software Engineer",
+      "url": "https://bestengage.it/",
+      "start_date": "2019",
+      "end_date": "2020",
       "summary": "Short summary about previous job and what that position entailed",
       "highlights": [
-        "First Duty of Previous Job",
-        "Second Duty of Previous Job",
-        "Third Duty of Previous Job"
+        "Developed and designed GIS web applications with the ArcGIS JavaScript API",
+        "Wrote and published geoprocessing services using Python and ArcPy",
+        "Created backend user authentication systems with PHP and MySQL"
+      ]
+    },
+    {
+      "company": "GNPC (Ghana National Petroleum Corporation)",
+      "position": "Geophysicist",
+      "url": "https://www.gnpcghana.com/",
+      "start_date": "2012",
+      "end_date": "2013",
+      "summary": "",
+      "highlights": [
+        "Performing seismic to well ties.",
+        "Undertaking seismic interpretation of geological structures using seismic micro technology kingdom suite.",
+        "Assisting the geological department in the generation of geological framework and geological maps.",
+        "Assisting in the formation evaluation and estimation volumetrics and risk assessment."
       ]
     }
+
   ],
   "projects": [
     {
-      "title": "My First Project",
-      "summary": "Short summary about my first project",
-      "url": "https://sample.com",
+      "title": "Characterization of suspended micro channel resonators",
+      "summary": "The Suspended Microchannel Resonators (SMRs) are recently attracting great attention in the\nbiosensing field, and in particular in the density and mass monitoring of cells, bacteria growth and\nparticles loading. One of the main drawback in the implementation of this platform in lab-on-chip\ndevices is represented by the time consuming and expensive fabrication approach used to create the\nSMR itself. In fact, in order to realized a buried channel in a suspended structure complex fabrication\nmethods are needed, which requires several photo lithographic, depositions and etching process. In this\nwork it has proposed an innovative method of fabrication based on the femtosecond laser writing. In\nparticular a glass SMR has been fabricated optimizing a two steps fabrication process, which includes\nthe patterning of the buried channel and of the suspended beam followed by a chemical etching of the\nexposed substrates ",
+
+      "url": "https://webthesis.biblio.polito.it/10975/1/tesi.pdf",
       "highlights": [
-        "First Highlight of Project One",
-        "Second Highlight of Project One",
-        "Third Highlight of Project One"
+        "In total four suspended microchannel resonators were model and characterized in this study, characterized,by four different constriction geometries.",
+      "The four suspended micro channel resonators were model using the multiphysics comsol applying the solid mechanics suite.",
+      "The first flexural eigenfrequencies for the four resonators were theoretical computed to be 1.0334 MHz, 1.0336 MHz, 1.0905 MHz and 0.4938 MHz respectively."
       ],
       "images": [
         {
-          "img_path": "https://picsum.photos/600/338?random=1",
-          "caption": "Image Caption 1"
+          "img_path": "portfolio_media/SMR.JPG",
+          "caption": "Master's Thesis"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=2",
-          "caption": "Image Caption 2"
+          "img_path": "portfolio_media/YT4.gif",
+          "caption": "First Flexural Mode"
         },
         {
-          "img_path": "https://picsum.photos/600/338?random=3",
-          "caption": "Image Caption 3"
-        }
-      ]
-    },
-    {
-      "title": "My Second Project",
-      "summary": "Short summary about my second project",
-      "url": "https://sample.com",
-      "highlights": [
-        "First Highlight of Project Two",
-        "Second Highlight of Project Two",
-        "Third Highlight of Project Two"
-      ],
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=4",
-          "caption": "Image Caption 4"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=5",
-          "caption": "Image Caption 5"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=6",
-          "caption": "Image Caption 6"
+          "img_path": "portfolio_media/YT5.gif",
+          "caption": "First Torsional Mode"
         }
       ]
     }
+
   ],
   "volunteer_experience": [
     {
@@ -134,9 +127,9 @@
   ],
   "education": [
     {
-      "institution": "Institution One",
-      "location": "Institution One Location",
-      "url": "https://sample.com",
+      "institution": "Politecnico Di  Torino",
+      "location": "Corso Duca degli Abruzzi, 24 ",
+      "url": "https://marshall.edu",
       "degrees": [
         "Master of Science in Computer Science",
         "Minor in Mathematics"

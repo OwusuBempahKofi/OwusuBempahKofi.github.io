@@ -6,7 +6,7 @@ from jinja2 import Environment, FileSystemLoader
 
 
 # Load JSON data
-with Path("portfolio-owusu.json").open(encoding="utf-8") as f:
+with Path("portfolio.json").open(encoding="utf-8") as f:
     data = json.load(f)
 
 
