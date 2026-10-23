@@ -1,9 +1,10 @@
+import os
 import json
 from datetime import UTC, datetime
 from pathlib import Path
 
 from jinja2 import Environment, FileSystemLoader
-#from weasyprint import HTML
+
 
 
 
@@ -48,11 +49,11 @@ with Path("portfolio.json").open(encoding="utf-8") as f:
     # ----------------------------------------------------
     # 4. EXPORT AND DOWNLOAD THE WEBSITE AS A PDF
     # ----------------------------------------------------
-    #print("Compiling website structure into PDF format...")
-    #pdf_output_path = "website_export.pdf"
+    print("Compiling website structure into PDF format...")
+    pdf_output_path = "website_export.pdf"
 
     # Initialize Weasyprint to read the generated file infrastructure
-    #html_doc = HTML(filename=html_file_path)
+    #html_doc = HTML(filename=html_output)
 
     # Write the final compiled file to disk
     #html_doc.write_pdf(pdf_output_path)
